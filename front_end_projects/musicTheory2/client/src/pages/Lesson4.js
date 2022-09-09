@@ -7,10 +7,10 @@ export default function Lesson4(props){
                 <div className="lesson-header">
 
         <img className="icon"  onClick={props.goToPreviousPage} src={BackBtn} alt="go to previous lesson"/>
-        <h2>Lesson 4: Thin Vs Rich</h2>
+        <h2>Lesson 4: Give it a try!</h2>
         </div>
-        <video></video>
-        <p>Add both thin and rich sounds to your piece as you like. A good balance between robust and thin bits of your peice would give it a professional feel.</p>
+        {/* <video></video>
+        <p>Add both thin and rich sounds to your piece as you like. A good balance between robust and thin bits of your peice would give it a professional feel.</p> */}
         <div className="tip">
             <img src={Tick} alt="tip"/>
             <p>Find the chord to your favourite song online, transform each chord to its root note and play the root notes instead of the chord to match the tune of the song.</p>

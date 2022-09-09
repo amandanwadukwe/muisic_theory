@@ -43,7 +43,7 @@ export default function Introduction(props){
                     <span>Play note a then play note b afterwards</span>
                 </div></li>
                 <li><div>
-                    <span><b>a - b:</b></span>
+                    <span><b>a + b:</b></span>
                     <span>Play note a and note b together</span>
                 </div></li>
         </ul>

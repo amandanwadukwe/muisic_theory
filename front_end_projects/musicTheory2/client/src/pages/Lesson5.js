@@ -15,7 +15,7 @@ export default function Lesson5(props){
             </p>
             <img src={ExclamationMark} alt="terms"/>
         </div>
-        <p>When creating your piece, combine the notes of a family in an order that sounds good to you. These families are called Scales, and some popular scales include the <b>ajor scale</b>, <b>minor scale</b>, <b>blues scale</b>, <b>jazz scale</b>, etc.</p>
+        <p>When creating your piece, combine the notes of a family in an order that sounds good to you. These families are called Scales, and some popular scales include the <b>major scale</b>, <b>minor scale</b>, <b>blues scale</b>, <b>jazz scale</b>, etc.</p>
         <div className="tip">
             <img src={Tick} alt="tip"/>
             <p>Each scale has a formula. You can play a scale from any key using the scale's formula. An A-minor blues scale and a G-minor blues scale are derived using the general formula for blues scales.</p>
